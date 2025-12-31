@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.bigger {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.black {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.yello {
+    background-color: #ffff00;
+    color: hsl(0, 0%, 0%);
+}
