@@ -1,7 +1,15 @@
+@font-face {
+    font-family: "Figtree";
+    src: url("fonts/figtree/Figtree-Italic-VariableFont_wght.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 div {
-    background-color: "red";
-    color: "white";
-    font-size: "32px";
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-family: "Figtree", serif;
     text-align: center;
-    font-weight: "700";
+    font-weight: bold;
 }
